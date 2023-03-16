@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=IAR_Autolaunch
+Exec=xterm -hold -e 'node  ~/autolaunch/autolaunch.js'
