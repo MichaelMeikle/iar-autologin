@@ -3,7 +3,7 @@ Automatically launches browser, sets it full screen, and logs in with user provi
 
 ## Setup/Installation
 - Ensure fresh Pi image
-- Setup restart times with crontab -e, at least twice a day
+- Setup restart times with crontab -e, at least once a day
 - Install Node/NPM
 - Install Xterm
 - Copy iar_autolaunch.desktop file into ~/.config/autostart
